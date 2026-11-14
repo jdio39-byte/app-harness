@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Harness</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="skip">Skip</string>
+    <string name="work">Work</string>
+    <string name="rest">Rest</string>
+    <string name="long_rest">Long rest</string>
+    <string name="blocks">Blocks completed: %1$d</string>
+    <string name="channel_ongoing">Running timer</string>
+    <string name="channel_alerts">Block alerts</string>
+    <string name="notif_title">%1$s in progress</string>
+    <string name="alert_rest">Block complete</string>
+    <string name="alert_work">Rest over — back to work</string>
 </resources>
